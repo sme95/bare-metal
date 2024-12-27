@@ -1,0 +1,18 @@
+# Ignore build artifacts
+/build/
+
+# Ignore editor settings
+.vscode/
+*.swp
+*.log
+
+# Ignore backup files
+*.bak
+*~
+
+# Ignore temporary files
+.DS_Store
+Thumbs.db
+
+.clangd
+verbose
